@@ -1,0 +1,20 @@
+.footer
+{
+   bottom:0;
+}
+.container-fluid
+{
+   position:relative;
+}
+
+.logos
+{
+   display:flex;
+   justify-content: center;
+   flex-direction: row;
+}
+
+.logos a:hover
+{
+   filter: sepia(100%); 
+}
