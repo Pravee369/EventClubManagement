@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Maps&family=Rubik+Moonrocks&family=Rubik+Puddles&display=swap');
+
+.rubik-moonrocks-regular {
+    font-family: "Rubik Moonrocks", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .card
+  {
+    box-shadow: 6px 5px 10px cadetblue;
+    background-color: ghostwhite;
+    position:relative;
+  }
+
+  .card-header
+  {
+    font-family: Georgia;
+    box-shadow: 2px 1px 2px darkcyan;
+  }
+
+.image
+{
+  width:100%;
+  height:auto;
+}
+
+.welcome
+{
+  height:800px;
+  padding-top:50px;
+  text-shadow : 20px 15px 9px darkgray;
+}
+
+.home
+{
+  background-image: url("https://st2.depositphotos.com/3591429/6307/i/450/depositphotos_63074689-stock-photo-business-peoples-arms-raised.jpg");
+  background-attachment: fixed;
+  background-size:cover;
+}
